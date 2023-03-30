@@ -1,0 +1,6 @@
+{
+  "messageFilePath": "./messages/message.json",
+  "webhookUrl": "<WEBHOOK_URL_HERE>",
+  "updateInChannelId": "<CHANNEL_ID_HERE>",
+  "messageId": "<MESSAGE_ID_HERE>"
+}

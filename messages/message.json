@@ -1,0 +1,39 @@
+{
+    "username": "Webhook Username",
+    "avatar_url": "https://example.com/avatar.jpg",
+    "content": "Webhook Message Content",
+    "embeds": [
+      {
+        "title": "Embed Title",
+        "description": "Embed Description",
+        "color": 16711680,
+        "fields": [
+          {
+            "name": "Field Name 1",
+            "value": "Field Value 1",
+            "inline": true
+          },
+          {
+            "name": "Field Name 2",
+            "value": "Field Value 2",
+            "inline": true
+          },
+          {
+            "name": "Field Name 3",
+            "value": "Field Value 3",
+            "inline": false
+          }
+        ],
+        "thumbnail": {
+          "url": "https://example.com/image.jpg"
+        },
+        "image": {
+          "url": "https://example.com/image.jpg"
+        },
+        "footer": {
+          "text": "Footer Text",
+          "icon_url": "https://example.com/icon.jpg"
+        }
+      }
+    ]
+  }
